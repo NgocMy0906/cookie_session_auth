@@ -42,3 +42,7 @@ Method: GET
 URL: http://localhost:3000/auth/profile
 Kết quả: "error": "Unauthorized"
 ![alt text](<public/images/Screenshot 2025-09-27 160429.png>)
+
+
+![alt text](<public/images/Screenshot 2025-09-27 164453.png>)
+![alt text](<public/images/Screenshot 2025-09-27 164437.png>)
